@@ -4,7 +4,7 @@
 
 # Register Number :212224230287
 
-# Date :27.04.2026
+# Date :28.04.2026
 
 # AIM:
 
@@ -89,8 +89,10 @@ int main() {
 ```
 
 # OUTPUT:
-<img width="727" height="516" alt="image" src="https://github.com/user-attachments/assets/eb3a0757-aa97-4d8f-94cb-7917970e5d19" />
-<img width="685" height="520" alt="image" src="https://github.com/user-attachments/assets/a962e213-b7f5-4b70-8ccd-7ba3424b83fc" />
+<img width="826" height="414" alt="image" src="https://github.com/user-attachments/assets/dd0910fe-acb8-4d54-8363-1cff8b717e95" />
+<img width="919" height="440" alt="image" src="https://github.com/user-attachments/assets/705967d9-c453-4f39-9d57-beaf900f2de1" />
+
+
 
 
 
